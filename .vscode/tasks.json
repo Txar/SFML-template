@@ -15,7 +15,7 @@
         {
             "label": "Build + run",
             "type": "shell",
-            "command": "mingw32-make && cd build/FieryTendency && FieryTendency",
+            "command": "mingw32-make && cd build/ProjectName && ProjectName",
             "options": {},
             "group": {
                 "kind": "build",
